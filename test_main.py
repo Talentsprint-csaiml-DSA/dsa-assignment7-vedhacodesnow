@@ -1,5 +1,5 @@
 import pytest
-from your_module import longest_common_subsequence  # Replace 'your_module' with the actual module name
+from main import longest_common_subsequence  # Replace 'your_module' with the actual module name
 
 
 
