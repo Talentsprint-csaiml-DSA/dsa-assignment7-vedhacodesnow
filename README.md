@@ -1,4 +1,4 @@
-# Assignment 4: Longest common subsequence 
+# Assignment 7: Longest common subsequence 
 
 ## Problem Statement:
 
